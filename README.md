@@ -11,3 +11,7 @@ hacer un fork hacias sus cuentas personales.
 1. click en tu foto de perfil
 2. click en sttings
 3. click en organizaciones
+
+## PARA CREAR UN FORK
+Para crear un fork en github debes inciar sesion y luego ingresar
+a la landing page del proyecto del que qieras sacar tu fork.
