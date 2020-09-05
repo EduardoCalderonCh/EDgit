@@ -15,3 +15,11 @@ hacer un fork hacias sus cuentas personales.
 ## PARA CREAR UN FORK
 Para crear un fork en github debes inciar sesion y luego ingresar
 a la landing page del proyecto del que qieras sacar tu fork.
+
+## COMO TRABAJAR CON LAS RAMAS, CON 2 O MAS REMOTOS
+Listar remotos 
+`git remote -v`
+
+Agregar remotos 
+`git remote add EDgit https://.....`
+
